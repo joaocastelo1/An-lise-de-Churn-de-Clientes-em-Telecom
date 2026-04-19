@@ -1,0 +1,10 @@
+categoria,insight,impacto,acao
+Contrato,Contrato Mensal tem 2x mais chances de churn que bienais,ALTO,Oferecer discount de 15-20% para migracao para contrato anual
+Plano,Planos Basicos tem churn 74% maior que Premium,ALTO,Upsell para planos superiores com beneficios relevantes
+Satisfacao,Satisfacao <= 3 indica 70% de churn vs 22% para >= 8,CRITICO,NPS < 3: contato imediato com equipe de retention em 24h
+Reclamacoes,4+ reclamacoes = 65% churn (vs 30% com 0),CRITICO,Trigger automatico para retention apos 3a reclamacao
+Infraestrutura,Sem fibra = 47% churn vs 32% com fibra,ALTO,Priorizar expansao de fibra para areas com alta conversao
+Ciclo de Vida,Clientes nos primeiros 6 meses tem 54% churn - fase critica,CRITICO,Programa de onboarding estruturado nos 1os 6 meses
+Uso,Alto uso de dados (50GB+) sem fibra = churn elevado,MEDIO,Oferta de upgrade de internet para heavy users
+Pagamento,Boleto tem maior churn vs PIX,MEDIO,Incentivar migracao para PIX com 5% discount
+Regiao,Norte e Nordeste tem churn acima da media (43-45%),MEDIO,Planos regionais especificos com melhor custo-beneficio

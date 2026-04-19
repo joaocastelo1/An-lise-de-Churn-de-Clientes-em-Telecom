@@ -1,0 +1,65 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+001-AB-1234,Male,0,Yes,No,12,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card,35.40,354.0,No
+001-AB-5678,Female,0,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),74.85,1743.0,No
+001-AB-9012,Male,1,No,No,2,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,24.55,45.0,Yes
+001-AB-3456,Female,0,Yes,Yes,72,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card,55.20,4115.0,No
+001-AB-7890,Male,0,Yes,No,12,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,84.70,987.0,Yes
+001-AB-1111,Female,1,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card,74.65,74.65,Yes
+001-AB-2222,Male,0,Yes,Yes,48,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),57.30,2698.0,No
+001-AB-3333,Female,0,No,No,6,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,44.15,259.0,No
+001-AB-4444,Male,1,No,No,18,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.85,1698.0,Yes
+001-AB-5555,Female,0,Yes,Yes,36,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Two year,No,Credit card,51.95,1845.0,No
+001-AB-6666,Male,0,No,No,3,No,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,20.60,58.0,Yes
+001-AB-7777,Female,1,Yes,No,30,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),111.45,3318.0,No
+001-AB-8888,Male,0,No,No,8,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,34.80,271.0,No
+001-AB-9999,Female,0,Yes,Yes,55,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card,54.50,2987.0,No
+001-AB-0001,Male,1,No,No,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.90,1235.0,Yes
+001-AB-0002,Female,0,No,No,45,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,No,Credit card,76.30,3420.0,No
+001-AB-0003,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),58.90,3985.0,No
+001-AB-0004,Female,1,No,No,9,No,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,18.50,165.0,Yes
+001-AB-0005,Male,0,Yes,No,22,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card,82.40,1812.0,No
+001-AB-0006,Female,0,No,No,5,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,41.20,203.0,Yes
+001-AB-0007,Male,1,Yes,No,38,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),105.60,3992.0,No
+001-AB-0008,Female,0,No,No,15,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,38.70,572.0,No
+001-AB-0009,Male,0,Yes,Yes,52,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,No,Credit card,91.25,4728.0,No
+001-AB-0010,Female,1,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.85,551.0,Yes
+001-AB-0011,Male,0,Yes,No,31,No,No,No,No,No,No,No,No,No,One year,No,Mailed check,22.15,685.0,No
+001-AB-0012,Female,0,No,No,11,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Credit card,43.80,476.0,Yes
+001-AB-0013,Male,1,Yes,Yes,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),118.90,7678.0,No
+001-AB-0014,Female,0,No,No,19,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,86.45,1632.0,Yes
+001-AB-0015,Male,0,Yes,No,42,Yes,Yes,DSL,No,Yes,No,Yes,No,No,One year,No,Credit card,49.30,2058.0,No
+001-AB-0016,Female,1,No,No,4,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,29.95,118.0,Yes
+001-AB-0017,Male,0,Yes,Yes,58,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),73.60,4238.0,No
+001-AB-0018,Female,0,No,No,26,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,46.85,1196.0,No
+001-AB-0019,Male,1,No,No,13,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card,95.30,1229.0,Yes
+001-AB-0020,Female,0,Yes,Yes,70,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card,60.45,4205.0,No
+001-AB-0021,Male,0,No,No,8,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,39.20,308.0,Yes
+001-AB-0022,Female,1,Yes,No,29,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),99.75,2865.0,No
+001-AB-0023,Male,0,No,No,16,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,36.50,576.0,No
+001-AB-0024,Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card,88.60,3248.0,No
+001-AB-0025,Male,1,No,No,2,No,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.25,140.0,Yes
+001-AB-0026,Female,0,Yes,Yes,63,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),52.80,3285.0,No
+001-AB-0027,Male,0,No,No,21,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,71.90,1498.0,No
+001-AB-0028,Female,1,No,No,10,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,42.60,420.0,Yes
+001-AB-0029,Male,0,Yes,No,44,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card,108.45,4768.0,No
+001-AB-0030,Female,0,No,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,33.15,195.0,Yes
+001-AB-0031,Male,1,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),114.80,6358.0,No
+001-AB-0032,Female,0,No,No,28,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Credit card,40.25,1127.0,No
+001-AB-0033,Male,0,Yes,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,78.90,2745.0,No
+001-AB-0034,Female,1,No,No,12,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card,92.15,1098.0,Yes
+001-AB-0035,Male,0,Yes,Yes,66,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),56.70,3705.0,No
+001-AB-0036,Female,0,No,No,17,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.80,767.0,No
+001-AB-0037,Male,1,No,No,3,No,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,19.60,58.0,Yes
+001-AB-0038,Female,0,Yes,No,40,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Credit card,67.40,2680.0,No
+001-AB-0039,Male,0,No,No,23,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,47.90,1093.0,No
+001-AB-0040,Female,1,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),103.75,5260.0,No
+001-AB-0041,Male,0,No,No,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,81.30,1130.0,Yes
+001-AB-0042,Female,0,Yes,Yes,69,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card,54.85,3773.0,No
+001-AB-0043,Male,1,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.60,672.0,Yes
+001-AB-0044,Female,0,Yes,No,33,Yes,Yes,DSL,No,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),48.70,1601.0,No
+001-AB-0045,Male,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card,35.95,718.0,No
+001-AB-0046,Female,1,No,No,5,No,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.40,424.0,Yes
+001-AB-0047,Male,0,Yes,Yes,61,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Credit card,59.30,3597.0,No
+001-AB-0048,Female,0,No,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,90.25,2435.0,No
+001-AB-0049,Male,1,Yes,No,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),119.50,5480.0,No
+001-AB-0050,Female,0,No,No,11,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,37.80,410.0,Yes
