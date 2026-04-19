@@ -10,7 +10,7 @@ st.markdown("Dashboard interativo para analise de churn de clientes")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('C:/Users/joao castelo/Desktop/Cusro_Python_Pandas/projeto_churn_telecom/data/telecom_limpo.csv')
+    return pd.read_csv('data/telecom_limpo.csv')
 
 df = load_data()
 

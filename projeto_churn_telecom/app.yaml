@@ -1,0 +1,10 @@
+base: python3.12
+requirements:
+  - pandas>=2.0.0
+  - numpy>=1.24.0
+  - matplotlib>=3.7.0
+  - seaborn>=0.12.0
+  - streamlit>=1.30.0
+
+run:
+  streamlit run dashboard_streamlit.py
